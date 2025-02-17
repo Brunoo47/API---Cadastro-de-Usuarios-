@@ -1,5 +1,6 @@
 package com.project.appusuarios.dto;
 
+
 public class UsuarioDTO {
     private String nome;
     private String email;
